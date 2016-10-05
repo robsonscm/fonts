@@ -1,4 +1,5 @@
 /*@import url(//fonts.googleapis.com/css?family=Lora|Nunito);*/
+@import url(//fonts.googleapis.com/css?family=Libre+Baskerville|Montserrat);
 
 *{
     padding: 0;
@@ -8,18 +9,18 @@
 html{
     font-size: 16px;
     line-height: 1.6;
-    font-family: "Lora", "Garamond", "Georgia", serif;
+    font-family: "Slabo 27px", "Garamond", "Georgia", serif;
 }
 html,body{
     background-color: #B28862;
 }
 h1{
-    font-family: "Nunito", "Helvetica", "Arial", sans-serif;
+    font-family: "Oswald", "Helvetica", "Arial", sans-serif;
     font-size: 3.998rem;
     padding:1rem 2rem;
 }
 h2{
-    font-family: "Nunito", "Helvetica", "Arial", sans-serif;
+    font-family: "Oswald", "Helvetica", "Arial", sans-serif;
     font-size: 2.827rem;
     padding:1rem 2rem;
 }
@@ -78,4 +79,16 @@ footer p{
     font-size: 1rem;
     padding: 2rem;
     color: #30454A;
+}
+.index-ss {
+    font-family: "Oswald", "Helvetica", "Arial", sans-serif;
+}
+.index-se {
+    font-family: "Slabo 27px", "Garamond", "Georgia", serif;
+}
+.two-ss {
+    font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+}
+.two-se {
+    font-family: "Libre Baskerville", "Garamond", "Georgia", serif;
 }

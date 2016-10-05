@@ -1,4 +1,5 @@
 /*@import url(//fonts.googleapis.com/css?family=Libre+Baskerville|Montserrat);*/
+@import url(//fonts.googleapis.com/css?family=Oswald|Slabo+27px);
 
 *{
     padding: 0;
@@ -78,4 +79,16 @@ footer p{
     font-size: 1rem;
     padding: 2rem;
     color: #30454A;
+}
+.index-ss {
+    font-family: "Oswald", "Helvetica", "Arial", sans-serif;
+}
+.index-se {
+    font-family: "Slabo 27px", "Garamond", "Georgia", serif;
+}
+.two-ss {
+    font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+}
+.two-se {
+    font-family: "Libre Baskerville", "Garamond", "Georgia", serif;
 }
